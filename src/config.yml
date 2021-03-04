@@ -1,0 +1,4 @@
+REDIS_URL: "localhost:6379"
+POSTGRES_URL: "0.0.0.0:5432"
+DB_URL: "postgresql://user:password@localhost:5432/admin"
+SECRET_KEY: "secret"
